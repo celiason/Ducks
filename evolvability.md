@@ -140,9 +140,15 @@ Phenotypic evolvability can be linked to diversification (Rabosky 2013, Maia 201
 
 Figure 1. PGLS results for mcc tree. Plots show conditional plots of color variables versus morphological variables. Relationship between y and x-axis calculated by holding all other variables in multiple regression at their held at median values. Lines are linear fits. Schematics along y-axes illustrate relevant variation in the shape of reflectance spectra.
 
+![][figures/fig1.png?raw=true]
+
 Figure 2. Evolutionary correlations for different pairs of morphological (a) and optical traits (b). Points show mean rate and line segments are 95% confidence intervals. Results are shown with (black) and without measurement error (grey).
 
+![][figures/fig2.png?raw=true]
+
 Figure 3. Phenotypic divergence rates for different morphological (a) and optical traits (b). Points show mean rate and line segments are 95% confidence intervals. Similar colors indicate functionally related traits from PGLS analysis. Results are shown with (bold colors) and without measurement error (faded colors). Different letters indicate significantly different rates (pairwise diffs, corrected for multiple comparisons). Note log-10 scale for y-axis. 'Traitgrams' in lower panels illustrate the relationship between time (y-axis) and evolutionary change in trait values (x-axis). Upper panels are histograms. Note natural-log scale. Scale range set to that of most variable trait to illustrate differences in evolutionary change.
+
+![][figures/fig3.png?raw=true]
 
 
 ## ESM
@@ -219,4 +225,8 @@ __Table S5__. Standard deviations of natural-logged trait values measured for n=
 
 Figure S1. Selecting the best evolutionary model. Lines show deviance distributions (probability density) for 1,000 Phylogenetic Monte Carlo simulations under the null (grey shaded regions) and test models (blue shaded regions). (a,b) Brownian motion versus an Ornstein Uhlenbeck (OU) model. (c,d) Univariate OU versus multivariate OU model. Left panels (a,c) are results for morphological traits, right panels (b,d) are those for color traits. Solid vertical lines show observed deviance and dashed vertical lines 5% quantile of null distribution.
 
+![][figures/figs1.png?raw=true]
+
 Figure S2. Estimated values for $\alpha$ and $\sigma^2$. Boxplots show distribution of parameter values for $\alpha$ (red boxes) and $\sigma^2$ (green boxes) for functionally related morphology (a) and color variables (b). Note the different y-axes and log-10 scale.
+
+![][figures/figs2.png?raw=true]
