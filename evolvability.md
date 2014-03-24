@@ -225,8 +225,8 @@ __Table S5__. Standard deviations of natural-logged trait values measured for n=
 
 Figure S1. Selecting the best evolutionary model. Lines show deviance distributions (probability density) for 1,000 Phylogenetic Monte Carlo simulations under the null (grey shaded regions) and test models (blue shaded regions). (a,b) Brownian motion versus an Ornstein Uhlenbeck (OU) model. (c,d) Univariate OU versus multivariate OU model. Left panels (a,c) are results for morphological traits, right panels (b,d) are those for color traits. Solid vertical lines show observed deviance and dashed vertical lines 5% quantile of null distribution.
 
-![][figures/figs1.png?raw=true]
+![](figures/figs1.png?raw=true)
 
 Figure S2. Estimated values for $\alpha$ and $\sigma^2$. Boxplots show distribution of parameter values for $\alpha$ (red boxes) and $\sigma^2$ (green boxes) for functionally related morphology (a) and color variables (b). Note the different y-axes and log-10 scale.
 
-![][figures/figs2.png?raw=true]
+![](figures/figs2.png?raw=true)
