@@ -110,7 +110,7 @@ Patterns of covariation among traits can be due to correlated selection {Brodie 
 
 ### Morphological complexity enhances color evolvability
 
-<!-- ADD MORE...THIS IS THE COOLEST PART ABOUT THE PAPER! --> Thin-films are common in birds {Eliason 2010, Shawkey, other refs?} and have one parameter that can vary (cortex thickness). Thus, variation in thickness will cause correlated changes in different optical traits (hue, saturation and brightness). By contrast, PCs have multiple parameters that can vary to affect color (melanosome size and spacing), and are thus more optically complex than thin-films.
+<!-- add more; this is one of the most interesting parts (to me) about the paper --> Thin-films are common in birds {Eliason 2010, Shawkey, other refs?} and have one parameter that can vary (cortex thickness). Thus, variation in thickness will cause correlated changes in different optical traits (hue, saturation and brightness). By contrast, PCs have multiple parameters that can vary to affect color (melanosome size and spacing), and are thus more optically complex than thin-films.
 
 We found that this complexity enhances color evolvability.
 
