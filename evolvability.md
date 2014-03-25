@@ -175,7 +175,7 @@ To assess variables for multivariate normality, we produced Q-Q plots of the qua
 
 ### Supplemental Tables
 
-__Table S1__. Observed __F__ matrix (SE in parentheses). Matrix values are standardized partial regression coefficients for PGLS multiple regressions of different color traits (columns) on morphological traits (rows). Significant slopes are bolded.
+__Table S1__. Observed __F__  matrix (SE in parentheses). Matrix values are standardized partial regression coefficients for PGLS multiple regressions of different color traits (columns) on morphological traits (rows). Significant slopes are bolded.
 
 | Trait     | Hue             | Saturation       | Brightness      |
 | :-------- | -----------:    | -----------:     | -----------:    |
@@ -209,7 +209,7 @@ __Table S4__. Mean and confidence intervals for pairwise differences in evolutio
 | hue-bri           | -0.2718 (-0.4739, -0.1336) | 0.0167   |
 
 
-__Table S5__. Standard deviations of natural-logged trait values measured for n=10 individual male mallards (_Anas platyrhynchos_).
+__Table S5__. Standard deviations of natural-logged trait values calculated for ten individual male mallards (_Anas platyrhynchos_).
 
 | Trait    | SD(ln(x)) |
 | :----    | :-------- |
