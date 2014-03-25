@@ -225,21 +225,21 @@ __Table S5__. Standard deviations of natural-logged trait values calculated for 
 
 Figure S1. Selecting the best evolutionary model. Lines show deviance distributions (probability density) for 1,000 Phylogenetic Monte Carlo simulations under the null (grey shaded regions) and test models (blue shaded regions). (a,b) Brownian motion versus an Ornstein Uhlenbeck (OU) model. (c,d) Univariate OU versus multivariate OU model. Left panels (a,c) are results for morphological traits, right panels (b,d) are those for color traits. Solid vertical lines show observed deviance and dashed vertical lines 5% quantile of null distribution.
 
-<IMG SRC="figures/figs1.png" WIDTH=480>
+![](figures/figs1.png)
 
 Figure S2. Rarefaction plots (upper: morph, lower: color).
 
-![](figures/rareplot2.pdf)
-![](figures/rareplot1.pdf)
+![](figures/rareplot2.png)
+![](figures/rareplot1.png)
 
 Figure S3. Estimated values for $\alpha$ and $\sigma^2$. Boxplots show distribution of parameter values for $\alpha$ (red boxes) and $\sigma^2$ (green boxes) for functionally related morphology (a) and color variables (b). Note the different y-axes and log-10 scale.
 
-<IMG SRC="figures/figs2.png" WIDTH=480>
+![](figures/figs2.png)
 
 Figure S4. Estimated phenotypic variance versus time for morphological traits melanosome diameter (a), melanosome spacing (b), and number of melanosome layers (c).
 
-![](figures/vartime1.pdf)
+![](figures/vartime1.png)
 
 Figure S5. Estimated phenotypic variance versus time for color traits: hue (a), (b) saturation (b) and brightness (c).
 
-![](figures/vartime2.pdf)
+![](figures/vartime2.png)
