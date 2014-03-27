@@ -95,8 +95,7 @@ As expected, incorporating ME decreased the estimated evolutionary rates for all
 
 <!-- goal: understand how the functional architecture of complex traits influences phenotypic/color evolvability -->
 
-In this study, we densely sampled feather nanomorphologies of an avian clade to understand the evolutionary tempo and mode of complex color-producing structures in birds. Our first question addressed whether complex morphologies enhance the potential for novel color phenotypes by decoupling color traits. We found that... Our second question examined the effects of functional decoupling on the patterns and pace of evolutionary change in both form (morphology) and function (color). Explicitly studying patterns of evolutionary change in both form and function allowed us to infer whether correlated changes in color stem from a common functional bases (?) or correlations in underlying morphological traits.
-
+In this study, we densely sampled feather nanomorphologies of an avian clade to understand the evolutionary tempo and mode of complex color-producing structures in birds. Our first question addressed how complex color-producing morphologies enhance the potential for novel color phenotypes by decoupling color traits. Our second question examined the effects of functional decoupling on the patterns and pace of evolutionary change in both form (morphology) and function (color). Explicitly studying patterns of evolutionary change in both form and function allowed us to infer whether correlated changes in color stem from a common functional basis or different bases with correlations in the underlying morphological traits.
 
 ### Nanostructural development
 
@@ -112,7 +111,6 @@ Patterns of covariation among traits can be due to correlated selection {Brodie 
 
 <!-- That brightness evolved faster than melanosome spacing when incorporating ME could be explained either by overestimation of ME for spacing, or additional parameters important in brightness variation (e.g., barbule density, orientation, or within-barbule color variation). Interestingly, one species (_Anas querquedula_) showed cell-to-cell differences in pigmentation that would clearly reduce the correlation between nanostructure and brightness predicted from a single iridescent cell (see ESM Fig. S4?). -->
 
-
 ### Structural traits evolve faster than morphological traits
 
 The rate of evolutionary change depends on the strength of selection ($\alpha$) and amount of additive genetic variation ($\sigma^2$) {evo text ref}. We found that brightness evolves faster than hue because spacing evolves faster than diameter. Moreover, this pattern is likely due to greater genetic (or phenotypic) variation (i.e. the __G__ matrix) rather than relaxed selection or constraints (Fig. S3). However, the question of why structural traits diverge faster than morphological traits (e.g., see {King & Jukes 1969}) remains unanswered. One possible explanation is that spacing may be determined by more underlying genes (polygenic) and therefore more sensitive to genetic variation {Mather 194x, Simpson Tempo & Mode}. <!-- Additionally, genotype networks make phenotypes more evolvable {Wagner 2012}. Complex gene-phenoype maps (epistasis? robustness?) can cause faster rates of phenotypic change compared to simple maps. --> Indeed, melanosome synthesis and deposition are complex processes involving a number of genes (reviewed in Marks 2001). <!-- For example, melanin synthesis (TRP1, TRP2, Pmel17), melanosome density or spacing (charge on melanosomes? rate of keratin polymerization/deposition-i.e. conversion from gene-protein; Maia 2011), and melanosome size (Pmel17 {ref}, OA; from Marks 2001). --> Moreover, melanosome spacing is likely sensitive to additional nongenetic factors (temperature, rate of melanosome deposition, keratin polymerization rates {Maia 2011, Prum?}) that could increase {==phenotypic variation==}. <!-- Experiments with artificial structures indicate that variation in the size of particles will automatically produce some correlated variation in spacing (Rengajaran 2005). Var(P) = Var(G) + Var(E) + Var(GxE) --> <!-- 3) differences in population variation? --> Complex developmental processes may evolve quickly due to more evolutionary degrees of freedom (steps in the process, genes involved in regulatory processes, etc.) {Wund 2012}. Alternatively, if developmental plasticity in melanosome spacing brings some individuals closer to the 'preferred' color, then selection can act on that variation and facilitate genetic change {see Price 2003}. <!-- Within species, the variation in spacing is greater than the variation in diameter (add figure?) and spacing is more variable than diameter within barbules (unpublished data?), suggesting that the developmental process causes more fluctuations in spacing. Greater population-level variation can cause greater rates of phenotypic evolution. Thus, the evolutionary significance of a given amount of phenotypic change becomes less significant with greater variation within a population {Lynch 1990}. (neutral genetic divergence expectation: Var(between)/t*Var(within) ~ 1) However, we found that differences in rates were still significant after standardizing by the amount of population-level variation in traits. Furthermore, all traits are linear and on the ratio scale, therefore rate differences for natural-log transformed traits are comparable {Gingerich 2009}. --> Finally, effective population size can vary across the genome <!-- (due to linkage dis?) -->, providing another possibility for why melanosome spacing is diverging faster than diameter. Further work should investigate the mechanistic bases for rate differences in complex phenotypic traits.
@@ -121,8 +119,21 @@ The rate of evolutionary change depends on the strength of selection ($\alpha$) 
 * Lenski 2001 (http://goo.gl/GaNE0L) - phenotypic evolution depends on beneficial mutations (b/c neutral DNA changes aren't seen in the phenotype and deleterious ones would be eliminated by natural selection) 
 * Subramanian & Kumar 2004 (http://goo.gl/Fz3EJv) - showed that more highly expressed genes caused slower rates of protein evolution (I THINK) -->
 
-An interesting question is how ducks get a wide variation in melanosome size.<!--  look up papers on organelle size control (fission-budding dynamics-that curr biology paper..) -->
+An interesting question is how ducks get a wide variation in melanosome size. Organelles shape can be controlled by the balance between fission and fusion (e.g. mitochondria) {Voeltz & Prinz 2007}. Thus, one potential hypothesis for the observed variation in melanosome morphology is variation in regulatory genes (e.g., OA1, pmel17) important for these processes.
 
+Pmel17 gene is important for the fibril matrix within melanosomes, and may facilitate changes during development from amorphous round melanosomes to more elongated, cylindrical shapes {Hoashi et al. 2006, Hellström et al. 2011}.
+
+### Sexual selection
+
+What is known in ducks:
+
+- iridescent color is condition-dependent {Legagneux et al. 2010}
+- wing patch quality (subjective judging) determined pairing success in the fall {Omland 1996}
+- 
+
+something about how sexual selection _can_ act on these colors, but our study only shows the _potential_ to respond to selection..
+
+<!-- Our study uncovers the relationship between morphology and spectral shape. However, perception of color differences depends on knowledge of the receivers. Thus, further studies linking  -->
 
 ### Implications
 
