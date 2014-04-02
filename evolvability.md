@@ -83,6 +83,38 @@ Bivariate plots of morphological and optical variables revealed two potential ou
 
 ## Results
 
+### Phylogeny
+
+comparison with Johnson 1999:
+
+- ours-hottentota basal to the teal clade, theirs-querquedula is basal
+- wigeon clade same
+- they have brown teal clade basal to mallards, pintails; we have brown teals, green-winged teals and pintails forming sister clade with mallard clade
+- melleri-undulata branching order (we have melleri branching before undulata)
+- their mallard clade is a mess (polytomy)
+
+comparison with gonzalez 2009:
+
+- silver teal clade different than ours (them: silver teals and blue-winged ducks form separate clades--weak support for querquedula, hottentota branching locations, us: hottentota basal to silver teals and blue-winged ducks)
+- blue-winged duck clade same
+- wigeon clade: we both have it basal to mallards
+- melleri/undulata swapped
+- we both have mallard clade basal to pintails, green-winged teals, and brown teals
+
+clades (from Johnson 1999):
+
+- pintails (acuta, georgica, bahamensis, erythrorhyncha, capensis) __OK__
+- green-winged teals (flavirostris, carolinensis, crecca) __OK__
+- mallards (laysanensis, luzonica, platy, poecil, zono, diazi, rubripes, fulvig, supercil, melleri, undul, sparsa) __OK__
+- gray teals (gibber, castan, bernieri) __OK__
+- brown (auck, chlor) __OK__
+- wigeon (american, sibilatrix, penel, strepera, falcata) __OK__
+- silver (versicolor, puna, hottentota, querquedula) __NO (hottentota outside)__
+- blue-winged (smithii, rhynchotis, clyp, cyanoptera, discors, platalea) __OK__
+- baikal teal (formosa) __OK__
+- SA ducks (speculanas, amazonetta, lophonetta) __OK__
+
+
 ### Color variation is explained by variation in morphology
 
 TEM analysis showed that nearly all dabbling duck species sampled (38/44, 86%) had a hexagonal PC within feather barbules. Melanosome diameter ranged from 90 - 180 nm, spacing between adjacent melanosomes varied from 18 - 87 nm, and the number of layers at the surface of barbules ranged from 4-8. Cortex thickness ranged from 110 - 478 nm. Peak location (hue) ranged from blue-red (463 - 647 nm), peak width (saturation) ranged from 32 - 69 nm, and peak reflectance (brightness) ranged from 5 - 70%. Scatter plots showed weak relationships among morphological and optical traits (Fig. X).
