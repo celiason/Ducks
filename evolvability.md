@@ -173,12 +173,15 @@ Phenotypic evolvability can be linked to diversification (Rabosky 2013, Maia 201
 ## Figure captions
 
 Figure 1. PGLS results for mcc tree. Plots show conditional plots of color variables versus morphological variables. Relationship between y and x-axis calculated by holding all other variables in multiple regression at their held at median values. Lines are linear fits. Schematics along y-axes illustrate relevant variation in the shape of reflectance spectra.
+
 ![](figures/fig1.png)
 
 Figure 2. Evolutionary correlations for different pairs of morphological (a) and optical traits (b). Points show mean rate and line segments are 95% confidence intervals. Results are shown with (black) and without measurement error (grey).
+
 ![](figures/fig2.png)
 
 Figure 3. Phenotypic divergence rates for different morphological (a) and optical traits (b). Points show mean rate and line segments are 95% confidence intervals. Similar colors indicate functionally related traits from PGLS analysis. Results are shown with (bold colors) and without measurement error (faded colors). Different letters indicate significantly different rates (pairwise diffs, corrected for multiple comparisons). Note log-10 scale for y-axis. 'Traitgrams' in lower panels illustrate the relationship between time (y-axis) and evolutionary change in natural log-transformed trait values (x-axis). Upper panels are histograms. All x-axes have similar span in log units to illustrate proportional evolutionary change.
+
 ![](figures/fig3.png)
 
 
@@ -256,25 +259,33 @@ __Table S5__. Standard deviations of natural-logged trait values calculated for 
 
 Figure S1. Patterns of covariation in color variables of ducks.
 TODO: make look prettier, highlight saturation outlier (_A. aucklandica_)
+
 ![](figures/pairsplot1.png)
 
 Figure S2. Patterns of morphological covariation.
+
 ![](figures/pairsplot3.png)
 
 Figure S3. Selecting the best evolutionary model. Lines show deviance distributions (probability density) for 1,000 Phylogenetic Monte Carlo simulations under the null (grey shaded regions) and test models (blue shaded regions). (a,b) Brownian motion versus an Ornstein Uhlenbeck (OU) model. (c,d) Univariate OU versus multivariate OU model. Left panels (a,c) are results for morphological traits, right panels (b,d) are those for color traits. Solid vertical lines show observed deviance and dashed vertical lines 5% quantile of null distribution.
+
 ![](figures/figs1.png)
 
 Figure S4. Rarefaction of variance plots for diagonal and off-diagonal evolutionary variance-covariance matrix for morphological variables.
+
 ![](figures/rareplot2.png)
 
 Figure S5. Rarefaction of variance plots for diagonal and off-diagonal evolutionary variance-covariance matrix for color variables.
+
 ![](figures/rareplot1.png)
 
 Figure S6. Estimated values for $\alpha$ and $\sigma^2$. Boxplots show distribution of parameter values for $\alpha$ (red boxes) and $\sigma^2$ (green boxes) for functionally related morphology (a) and color variables (b). Note the different y-axes and log-10 scale.
+
 ![](figures/figs2.png)
 
 Figure S7. Estimated phenotypic variance versus time for morphological traits melanosome diameter (a), melanosome spacing (b), and number of melanosome layers (c).
+
 ![](figures/vartime1.png)
 
 Figure S8. Estimated phenotypic variance versus time for color traits: hue (a), (b) saturation (b) and brightness (c).
+
 ![](figures/vartime2.png)
