@@ -132,7 +132,7 @@ clades (from Johnson 1999):
 
 (RM: suggested a not a very good title, but maybe something along those lines…?)
 
-All duck species with iridescent speculi sampled had melanosomes organized in hexagonal arrays characteristic of the two-dimensional photonic crystal described previously {Eliasion XX}. Melanosome diameter ranged from 90 - 180 nm, spacing between adjacent melanosomes varied from 18 - 87 nm, and the number of layers at the surface of barbules ranged from 4-8. Cortex thickness ranged from 110 - 478 nm <!-- we're not including cortex now right? probably need to add something to methods explaining that -->. Peak location (hue) spanned from blue to red (463 - 647 nm), peak width (saturation) ranged from 32 - 69 nm, and peak reflectance (brightness) ranged from 5 - 70%. Scatter plots showed weak relationships among morphological and optical traits (Fig. X). <!-- don't understand this last sentence and don't think we need it-->
+All duck species with iridescent speculi sampled had melanosomes organized in hexagonal arrays characteristic of the two-dimensional photonic crystal described previously {Eliasion XX}. Melanosome diameter ranged from 90 - 180 nm, spacing between adjacent melanosomes varied from 18 - 87 nm, and the number of layers at the surface of barbules ranged from 4-8. Cortex thickness ranged from 110 - 478 nm <!-- RM we're not including cortex now right? probably need to add something to methods explaining that -->. Peak location (hue) spanned from blue to red (463 - 647 nm), peak width (saturation) ranged from 32 - 69 nm, and peak reflectance (brightness) ranged from 5 - 70%. Scatter plots showed weak relationships among morphological and optical traits (Fig. X). <!-- RM don't understand this last sentence and don't think we need it-->
 
 Melanosome diameter had a significant positive effect on hue (phylogenetic generalized least squares regression, PGLS: $\beta$ = 0.36 ± 0.18, _t_ = 2.07, _p_ = 0.045; Figure 1a), as well as a significant negative effect on saturation ($\beta = -0.50$ ± 0.18, _t_ = -2.77, _p_ = 0.0089; Figure 1b) but did not significantly influence brightness (PGLS, $\beta$ = -0.35 ± 0.20, _t_ = -1.77, _p_ = 0.085; see Fig. X). Melanosome spacing had a significant positive effect on brightness (PGLS, $\beta$ = 0.43 ± 0.16, _t_ = 2.69, _p_ = 0.011; Figure 1c) but did not significantly predict hue ($\beta$ = -0.064 ± 0.15, _t_ = -0.42, _p_ = 0.67) or saturation ($\beta$ = 0.22 ± -0.16, _t_ = 1.37, _p_ = 0.18; Fig. 1). Therefore, species with larger melanosomes tend to have redder, less saturated colors, whereas species with more open hexagonal arrays (that is, greater distance between its melanosomes) had brighter colors. The number of melanosome layers did not significantly predict any of the considered color variables. 
 
@@ -147,6 +147,9 @@ Under the multivariate OU model, saturation was positively correlated with hue (
 
 When comparing evolutionary rates, melanosome spacing evolved significantly faster (~5.5X) than the size of melanosomes or the number of layers, which no significant differences between the rates of the latter two (ratio = 1.9; see Fig. 3a). The three color traits had significantly different evolutionary rates, with brightness evolved significantly faster than either hue (~73X) or saturation (~17X), and saturation evolved ~4X faster than hue (Fig. 3b). Both color and morphology rate comparisons were unaffected by the removal of outliers. 
 
+
+<!-- RM: This whole section reads more as a discussion than results to me. Everything here is already presented above isn't it? I think we can remove it, and add what is necessary to the discussion?
+
 ### Rates of evolution in color parallel those in morphology
 
 Patterns of disparity among morphological traits paralleled those in color. Specifically, melanosome spacing (and consequently brightness) evolved faster than melanosome diameter (and consequently hue and saturation). Hue and saturation were positively correlated (Fig. 2b). This is likely because both of these variables stem from a common underlying morphological trait (melanosome diameter), thus changes in diameter would produce correlated changes in either color trait. Hue and brightness evolved independently, as expected from their functional independence (see Fig. 1). Saturation and brightness showed a pattern of correlated evolution (Fig. 2b). Saturation decreased with melanosome diameter (reflectance peaks were broader for large melanosomes). Although the only significant predictor of brightness was the spacing between melanosomes ($\beta$ = 0.43 ± 0.16, _t_ = 2.69, _p_ = 0.01), the relationship between diameter and brightness was marginally significant ($\beta$ = -0.35 ± 0.20, _t_ = -1.77, _p_ = 0.08) and expected from optical theory (larger melanosomes should produce broad reflectance peaks and bright colors {REF}). Thus, the observed significant evolutionary correlation between these color traits might stem from a common morphological basis. Further work could explore this idea by experimentally manipulating the distance between melanosomes during development. Another possible explanation for the correlation could be that more disordered melanosomes cause both duller colors and broader reflectance peaks. However, we did not find a significant relationship between the coefficient of variation in melanosome size (a measure of disorder) and any color variables (ADD RESULTS).
@@ -154,15 +157,25 @@ Patterns of disparity among morphological traits paralleled those in color. Spec
 
 In all cases, spacing evolved faster than diameter, diameter and saturation evolved at same rates, hue evolved slower than diameter, there was a fairly strong but non-signifant effect of diameter on brightness ($\beta_\text{auck}$ = -0.33, $\beta_\text{rubr}$ = -0.24), and no off-diagonal values for $\alpha$ or $\sigma$ were significantly different from zero.
 
+end cut -->
+
 
 ### Effects of outliers and measurement error
 
+As expected, incorporating measurement error decreased the estimated evolutionary rates for all traits. Morphological traits were more affected than optical traits because of their increased standard errors (see Table S5). Indeed for one variable (_layers_), the within-species standard deviation was slightly higher than the between-species variation in the trait {SUPP TABLE XX}, thus resulting in a  considerable reduction in the estimates of the evolutionary correlations {Figure 2} and rates {Figure 3} associated to that variable. The ratio between intraspecific and interspecific variation determined the effect of measurement error on evolutionary rate {see Lynch 1990, eq. 3} <!-- RM: Add this ratio to the table? -->. 
 
+Including measurement error did not significantly alter the pattern of rate differences among morphological traits, with melanosome spacing evolving significantly faster than diameter or the number of layers both with or without accounting for measurement error. Brightness still evolved significantly faster than either hue or saturation when accounting for measurement error, but the difference between the latter two was reduced and was nonsignificant. <!-- RM: relevant to compare rates of morphology and color? -- However, after accounting for ME the evolutionary rate for diameter was not significantly higher than hue. -->
 
-As expected, incorporating ME decreased the estimated evolutionary rates for all traits. Morphological traits were more affected than optical traits because of their increased standard errors (see Table S5). Indeed for one variable (_d_), the within-species estimate of SD was greater than the between-species variation in the trait. The ratio between intraspecific and interspecific variation determined the effect of ME on evolutionary rate {see Lynch 1990, eq. 3}. Including ME did not significantly alter the pattern of rate differences among morphological and optical traits. Melanosome spacing evolved significantly faster than diameter or the number of layers in both cases, and brightness evolved significantly faster than either hue or saturation. However, after accounting for ME the evolutionary rate for diameter was not significantly higher than hue.
+EFFECT ON EVOLUTIONARY CORRELATIOSN AS WELL!!!
 
 
 ## Discussion
+
+
+- number of layers has variation on the same scale within and between
+- makes sense: an easy thing to accumulate variation at the micro level, not at the macro (bounded on one end of the distribution, and at the other loses its optical function)
+- might be contributing to the high rates of brigtness, so be cautious
+- but at the same time, shouldn't affect our conclusions
 
 ### Overview
 
