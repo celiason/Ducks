@@ -120,7 +120,7 @@ As expected, incorporating measurement error decreased the estimated evolutionar
 Including measurement error did not significantly alter the pattern of rate differences among morphological traits, with melanosome spacing evolving significantly faster than diameter or the number of layers both with or without accounting for measurement error. Brightness still evolved significantly faster than either hue or saturation when accounting for measurement error, but the difference between the latter two was reduced and was nonsignificant. 
 
 <!-- RM: Chad, add effects of measurement error on the covariances as well -->
-
+The magnitudes of correlation coefficients between traits increased slightly when incorporating measurement error (Fig. 2). Qualitatively, patterns of correlations among morphological traits differed slightly when incorporating ME, as the relationships between diameter and spacing and spacing and layer number become significant (Fig. 2a). The relationships among color variables remained unchanged (Fig. 2b).
 
 ## Discussion
 
@@ -294,9 +294,9 @@ Figure S5. Rarefaction of variance plots for diagonal and off-diagonal evolution
 
 ![](figures/rareplot1.png)
 
-Figure S6. Estimated values for $\alpha$ and $\sigma^2$. Boxplots show distribution of parameter values for $\alpha$ (red boxes) and $\sigma^2$ (green boxes) for functionally related morphology (a) and color variables (b). Note the different y-axes and log-10 scale.
+Figure S6. Boxplots (left panels a, b) showing distribution of parameter values for $\alpha$ (red) and $\sigma^2$ (blue) in functionally related morphological (a) and optical traits (b). Note the different y-axes and log-10 scale. (c-e): Histograms showing distribution of pairwise differences in parameter values between traits.
 
-![](figures/figs2.png)
+![](figures/alphasigmadiffs.png)
 
 Figure S7. Estimated phenotypic variance versus time for morphological traits melanosome diameter (a), melanosome spacing (b), and number of melanosome layers (c).
 
