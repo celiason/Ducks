@@ -137,6 +137,8 @@ Including measurement error did not significantly alter the pattern of rate diff
 ## Discussion
 
 
+### issues with measurement error
+
 - number of layers has variation on the same scale within and between
 - makes sense: an easy thing to accumulate variation at the micro level, not at the macro (bounded on one end of the distribution, and at the other loses its optical function)
 - might be contributing to the high rates of brigtness, so be cautious
