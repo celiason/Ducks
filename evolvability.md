@@ -2,11 +2,10 @@
 
 Eliason, C. M., Maia, R. M., Shawkey, M. D.
 
-<!-- ## TODO
+## TODO
 
 - [ ] Add discussion of variance-time plots
-- [ ] Add histogram of parameter differences for Fig. S6
- -->
+- [x] Add histogram of parameter differences for Fig. S6
 
 ## Abstract
 
